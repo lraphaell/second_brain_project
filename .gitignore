@@ -1,0 +1,13 @@
+# Obsidian workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Plugin cache
+.obsidian/plugins/*/data.json
+
+# Smart Connections
+.smart-env/
+
+# OS
+.DS_Store
+Thumbs.db
